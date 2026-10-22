@@ -43,3 +43,5 @@ npm run make
 <hr>  
 
 pro tip:  if you got no sound you hdmi plugged into monitor w*thout soeskers change s(und to source thag gas soeskerd 
+
+pro tip: did you delete appdata local asteroids folder now uninstall foesnf work?? shit re*nstall from an(ther setup exe leave appdata folder then clkck uninstallnitsnub*nstallati(n instructionsn are hekd jnsjde fhere 
