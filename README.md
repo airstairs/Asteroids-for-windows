@@ -25,13 +25,19 @@ download android code studio from github and install on android device, open ast
 
 ## asteroid for windows build instructions:  
 
-install node js msi standalone installer and install  
+install node js msi standalone installer and install    
+
+get nodes msi *nstaller fr(m website scroll past package manager options its at the bittom msi *nstsller 
+
+cd into npmElecrrons sub fokder that countainsbfilesnto buikd   right 
 
 
-npm install --save electron
-npm install --save-dev @electron-forge/cli
-npm install --save-dev @electron-forge/maker-squirrel
-npm install --save electron-squirrel-startup
+npm install --save electron  
+npm install --save-dev @electron-forge/cli  
+npm install --save-dev @electron-forge/maker-squirrel  
+npm install --save electron-squirrel-startup  
+
+npm run make
 
 
 
