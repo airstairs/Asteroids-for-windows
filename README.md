@@ -10,3 +10,28 @@ its asteroids for windows exe, it installs into app data so to pin to start you 
 
 
 
+
+
+
+
+<hr>
+# Build instructions:
+
+for android version:  
+
+download android code studio from github and install on android device, open asteroids for android sub folder in ACSProject first subfolder is acs project ACSProject\asteroids or whatever, open that in android code studio wait for configuration to complete and then click play button to build debug apk  
+
+
+
+## asteroid for windows build instructions:  
+
+install node js msi standalone installer and install  
+
+
+npm install --save electron
+npm install --save-dev @electron-forge/cli
+npm install --save-dev @electron-forge/maker-squirrel
+npm install --save electron-squirrel-startup
+
+
+
