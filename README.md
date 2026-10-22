@@ -45,3 +45,5 @@ npm run make
 pro tip:  if you got no sound you hdmi plugged into monitor w*thout soeskers change s(und to source thag gas soeskerd 
 
 pro tip: did you delete appdata local asteroids folder now uninstall foesnf work?? shit re*nstall from an(ther setup exe leave appdata folder then clkck uninstallnitsnub*nstallati(n instructionsn are hekd jnsjde fhere 
+
+pro tip just like github html badges to installer user written applicationsbinnwindows sometimes itntriggersb a verificat8onnthatbisbabhidden promotneaiti;g for youbton install teice if first attempt doesnt eorknits w*ndows saying please verify bybrunninng setup twice fr 
